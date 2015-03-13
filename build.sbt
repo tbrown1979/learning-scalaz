@@ -1,6 +1,7 @@
 name := """learning-scalaz"""
 
 scalaVersion := "2.11.2"
+
 val scalazVersion = "7.1.0"
 
 libraryDependencies ++= Seq(
